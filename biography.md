@@ -1,9 +1,9 @@
 ## Self Biography
 Theo Gallardo\
 **Biotech Major**\
-*5th Year*\
+*5th Year*
 
-**Pets Owned**\
+**Pets Owned**
 
 | Name    | Organism | Status  |
 |---------|----------|---------|
